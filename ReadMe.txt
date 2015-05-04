@@ -22,3 +22,5 @@ Sample Command Line Parameter Configuration
  -cp 'D:\Work\Projects\Airline\CrewPay\trunk\CrewPay\Web.Config' 
  -cn 'AirlineCrewPayDBUpdater' 
  -t 'C:\Work\Projects\Airline\Common\trunk\baretail.exe'
+
+Added a line to the read me file
