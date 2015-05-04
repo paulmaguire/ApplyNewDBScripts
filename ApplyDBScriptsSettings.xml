@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<entry>  
+  <location Recurisive="true">..\CrewPay\Airline.CrewPay.Database.Scripts.ASA\Stored Procedures</location>
+	<location Recurisive="true" ForceReApply="true" RunOnce="false">..\CrewPay\Airline.CrewPay.Database.Scripts.ASA\Table Data\JetBlue</location>
+  <location Recurisive="true" ForceReApply="true" RunOnce="false">..\..\CrewPay\Airline.CrewPay.Database.Scripts.ASA\Table Data\JetBlue</location>
+  <location Recurisive="true" ForceReApply="true" RunOnce="false">..\CrewPay\Airline.CrewPay.Database.Scripts.ASA\Table Data\JetBlue</location>
+</entry>
